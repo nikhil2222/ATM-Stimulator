@@ -1,3 +1,5 @@
+package atm_stimulator;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
